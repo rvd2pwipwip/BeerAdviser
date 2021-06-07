@@ -9,4 +9,9 @@
         <item>Brown</item>
         <item>Dark</item>
     </string-array>
+    <string name="welcome_text">Welcome to the Beer Advisor app! \n Use this app to help you find your new favorite beer. \n Click on the Start button to begin.</string>
+    <string name="start_button">Start</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="suggestions_text">Here are some beers you might want to try.</string>
 </resources>
